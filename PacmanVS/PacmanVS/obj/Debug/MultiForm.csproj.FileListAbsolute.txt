@@ -1,0 +1,33 @@
+G:\20170627\TA\1062 1052 1042 1032 1022 1012 ECE Object Oriented Programming\Lab Lecture\2018\Course05\Lecture-VC_Sharp 2017\MultiForm\MultiForm\bin\Debug\MultiForm.exe.config
+G:\20170627\TA\1062 1052 1042 1032 1022 1012 ECE Object Oriented Programming\Lab Lecture\2018\Course05\Lecture-VC_Sharp 2017\MultiForm\MultiForm\bin\Debug\MultiForm.exe
+G:\20170627\TA\1062 1052 1042 1032 1022 1012 ECE Object Oriented Programming\Lab Lecture\2018\Course05\Lecture-VC_Sharp 2017\MultiForm\MultiForm\bin\Debug\MultiForm.pdb
+G:\20170627\TA\1062 1052 1042 1032 1022 1012 ECE Object Oriented Programming\Lab Lecture\2018\Course05\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.csprojResolveAssemblyReference.cache
+G:\20170627\TA\1062 1052 1042 1032 1022 1012 ECE Object Oriented Programming\Lab Lecture\2018\Course05\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.Form1.resources
+G:\20170627\TA\1062 1052 1042 1032 1022 1012 ECE Object Oriented Programming\Lab Lecture\2018\Course05\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.Form2.resources
+G:\20170627\TA\1062 1052 1042 1032 1022 1012 ECE Object Oriented Programming\Lab Lecture\2018\Course05\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.Properties.Resources.resources
+G:\20170627\TA\1062 1052 1042 1032 1022 1012 ECE Object Oriented Programming\Lab Lecture\2018\Course05\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.csproj.GenerateResource.cache
+G:\20170627\TA\1062 1052 1042 1032 1022 1012 ECE Object Oriented Programming\Lab Lecture\2018\Course05\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.csproj.CoreCompileInputs.cache
+G:\20170627\TA\1062 1052 1042 1032 1022 1012 ECE Object Oriented Programming\Lab Lecture\2018\Course05\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.exe
+G:\20170627\TA\1062 1052 1042 1032 1022 1012 ECE Object Oriented Programming\Lab Lecture\2018\Course05\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.pdb
+E:\###NCTU###\_物件導向_\20180423\Lecture-VC_Sharp 2017\MultiForm\MultiForm\bin\Debug\MultiForm.exe.config
+E:\###NCTU###\_物件導向_\20180423\Lecture-VC_Sharp 2017\MultiForm\MultiForm\bin\Debug\MultiForm.exe
+E:\###NCTU###\_物件導向_\20180423\Lecture-VC_Sharp 2017\MultiForm\MultiForm\bin\Debug\MultiForm.pdb
+E:\###NCTU###\_物件導向_\20180423\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.csprojResolveAssemblyReference.cache
+E:\###NCTU###\_物件導向_\20180423\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.Form1.resources
+E:\###NCTU###\_物件導向_\20180423\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.Form2.resources
+E:\###NCTU###\_物件導向_\20180423\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.Properties.Resources.resources
+E:\###NCTU###\_物件導向_\20180423\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.csproj.GenerateResource.cache
+E:\###NCTU###\_物件導向_\20180423\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.csproj.CoreCompileInputs.cache
+E:\###NCTU###\_物件導向_\20180423\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.exe
+E:\###NCTU###\_物件導向_\20180423\Lecture-VC_Sharp 2017\MultiForm\MultiForm\obj\Debug\MultiForm.pdb
+E:\###NCTU###\_物件導向_\20180423\MultiForm\MultiForm\bin\Debug\MultiForm.exe.config
+E:\###NCTU###\_物件導向_\20180423\MultiForm\MultiForm\bin\Debug\MultiForm.exe
+E:\###NCTU###\_物件導向_\20180423\MultiForm\MultiForm\bin\Debug\MultiForm.pdb
+E:\###NCTU###\_物件導向_\20180423\MultiForm\MultiForm\obj\Debug\MultiForm.csprojResolveAssemblyReference.cache
+E:\###NCTU###\_物件導向_\20180423\MultiForm\MultiForm\obj\Debug\MultiForm.Form1.resources
+E:\###NCTU###\_物件導向_\20180423\MultiForm\MultiForm\obj\Debug\MultiForm.Form2.resources
+E:\###NCTU###\_物件導向_\20180423\MultiForm\MultiForm\obj\Debug\MultiForm.Properties.Resources.resources
+E:\###NCTU###\_物件導向_\20180423\MultiForm\MultiForm\obj\Debug\MultiForm.csproj.GenerateResource.cache
+E:\###NCTU###\_物件導向_\20180423\MultiForm\MultiForm\obj\Debug\MultiForm.csproj.CoreCompileInputs.cache
+E:\###NCTU###\_物件導向_\20180423\MultiForm\MultiForm\obj\Debug\MultiForm.exe
+E:\###NCTU###\_物件導向_\20180423\MultiForm\MultiForm\obj\Debug\MultiForm.pdb
